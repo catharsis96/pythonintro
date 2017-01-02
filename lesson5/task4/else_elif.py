@@ -1,4 +1,4 @@
-x = 28
+x = 3
 
 if x < 0:
     print('x < 0')                      # executes only if x < 0
@@ -11,7 +11,7 @@ else:
 
 name = "John"
 
-check if name equal to "John"
+if "John" == name:
     print(True)
-otherwise
+else:
     print(False)
