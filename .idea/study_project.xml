@@ -139,7 +139,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Variable definition" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98628" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -166,7 +166,7 @@
                                       <option name="offset" value="345" />
                                       <option name="possibleAnswer" value="5" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -331,7 +331,7 @@
                     <Task>
                       <option name="index" value="5" />
                       <option name="name" value="Arithmetic operators" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98632" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -354,11 +354,11 @@
                                           <option name="offset" value="45" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="22" />
+                                      <option name="length" value="10" />
                                       <option name="offset" value="45" />
                                       <option name="possibleAnswer" value="number / 2" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -374,17 +374,17 @@
                                           <option name="offset" value="81" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="81" />
+                                      <option name="length" value="10" />
+                                      <option name="offset" value="69" />
                                       <option name="possibleAnswer" value="number % 2" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -399,7 +399,7 @@
                     <Task>
                       <option name="index" value="6" />
                       <option name="name" value="Assignments" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98633" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -422,17 +422,17 @@
                                           <option name="offset" value="100" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="8" />
+                                      <option name="length" value="2" />
                                       <option name="offset" value="100" />
                                       <option name="possibleAnswer" value="+=" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -447,7 +447,7 @@
                     <Task>
                       <option name="index" value="7" />
                       <option name="name" value="Boolean operators" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98634" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -470,17 +470,17 @@
                                           <option name="offset" value="34" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="8" />
+                                      <option name="length" value="2" />
                                       <option name="offset" value="34" />
                                       <option name="possibleAnswer" value="==" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -495,7 +495,7 @@
                     <Task>
                       <option name="index" value="8" />
                       <option name="name" value="Comparison operators" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98635" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -518,17 +518,17 @@
                                           <option name="offset" value="188" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="8" />
+                                      <option name="length" value="1" />
                                       <option name="offset" value="188" />
                                       <option name="possibleAnswer" value="&gt;" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -937,7 +937,7 @@
                     <Task>
                       <option name="index" value="9" />
                       <option name="name" value="Basic string methods" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98668" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -960,17 +960,17 @@
                                           <option name="offset" value="131" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="24" />
-                                      <option name="offset" value="131" />
+                                      <option name="length" value="20" />
+                                      <option name="offset" value="157" />
                                       <option name="possibleAnswer" value="monty_python.upper()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -985,7 +985,7 @@
                     <Task>
                       <option name="index" value="10" />
                       <option name="name" value="String formatting" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98669" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1008,11 +1008,11 @@
                                           <option name="offset" value="132" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="14" />
-                                      <option name="offset" value="132" />
+                                      <option name="length" value="2" />
+                                      <option name="offset" value="142" />
                                       <option name="possibleAnswer" value="%d" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1029,16 +1029,16 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="length" value="5" />
-                                      <option name="offset" value="160" />
+                                      <option name="offset" value="158" />
                                       <option name="possibleAnswer" value="17" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1063,7 +1063,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Lists introduction" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98678" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1086,17 +1086,17 @@
                                           <option name="offset" value="70" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="5" />
+                                      <option name="length" value="12" />
                                       <option name="offset" value="70" />
                                       <option name="possibleAnswer" value="squares[1:4]" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1111,7 +1111,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="Lists operations" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98679" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1134,17 +1134,17 @@
                                           <option name="offset" value="257" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="30" />
+                                      <option name="length" value="24" />
                                       <option name="offset" value="257" />
                                       <option name="possibleAnswer" value="animals[-1] = 'dinosaur'" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1159,7 +1159,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="List items" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98680" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1182,17 +1182,17 @@
                                           <option name="offset" value="301" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="12" />
                                       <option name="offset" value="301" />
                                       <option name="possibleAnswer" value="animals[:] = []" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1207,7 +1207,7 @@
                     <Task>
                       <option name="index" value="4" />
                       <option name="name" value="Tuples" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98681" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1230,17 +1230,17 @@
                                           <option name="offset" value="161" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="15" />
+                                      <option name="length" value="13" />
                                       <option name="offset" value="161" />
                                       <option name="possibleAnswer" value="len(alphabet)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1255,7 +1255,7 @@
                     <Task>
                       <option name="index" value="5" />
                       <option name="name" value="Dictionaries" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98682" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1278,17 +1278,17 @@
                                           <option name="offset" value="311" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="12" />
+                                      <option name="length" value="18" />
                                       <option name="offset" value="311" />
                                       <option name="possibleAnswer" value="phone_book['Jane']" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1303,7 +1303,7 @@
                     <Task>
                       <option name="index" value="6" />
                       <option name="name" value="Dictionary keys() and values()" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98683" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1326,17 +1326,17 @@
                                           <option name="offset" value="208" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="17" />
+                                      <option name="length" value="19" />
                                       <option name="offset" value="208" />
                                       <option name="possibleAnswer" value="phone_book.values()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1351,7 +1351,7 @@
                     <Task>
                       <option name="index" value="7" />
                       <option name="name" value="In keyword" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98684" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1374,17 +1374,17 @@
                                           <option name="offset" value="236" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="30" />
+                                      <option name="length" value="29" />
                                       <option name="offset" value="236" />
                                       <option name="possibleAnswer" value="'fish' in grocery_dict.keys()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1409,7 +1409,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Boolean operators" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98685" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1432,17 +1432,17 @@
                                           <option name="offset" value="132" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="24" />
+                                      <option name="length" value="32" />
                                       <option name="offset" value="132" />
                                       <option name="possibleAnswer" value="name == 'John' and age != 23" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1457,7 +1457,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="Boolean operators order" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98686" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1480,17 +1480,17 @@
                                           <option name="offset" value="108" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="69" />
+                                      <option name="length" value="53" />
                                       <option name="offset" value="108" />
                                       <option name="possibleAnswer" value="name is &quot;Ellis&quot; or not (name is &quot;John&quot; and age == 17)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1505,7 +1505,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="If statement" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98687" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1528,17 +1528,17 @@
                                           <option name="offset" value="236" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="25" />
-                                      <option name="offset" value="236" />
+                                      <option name="length" value="19" />
+                                      <option name="offset" value="247" />
                                       <option name="possibleAnswer" value="if len(tasks) == 0:" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1553,7 +1553,7 @@
                     <Task>
                       <option name="index" value="4" />
                       <option name="name" value="Else, elif part in if statement" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98688" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1576,11 +1576,11 @@
                                           <option name="offset" value="352" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="29" />
-                                      <option name="offset" value="352" />
+                                      <option name="length" value="18" />
+                                      <option name="offset" value="351" />
                                       <option name="possibleAnswer" value="if name == 'John':" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1596,17 +1596,17 @@
                                           <option name="offset" value="398" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="9" />
-                                      <option name="offset" value="398" />
+                                      <option name="length" value="5" />
+                                      <option name="offset" value="386" />
                                       <option name="possibleAnswer" value="else:" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1631,7 +1631,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="For loop" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98707" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1654,17 +1654,17 @@
                                           <option name="offset" value="238" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="34" />
-                                      <option name="offset" value="238" />
+                                      <option name="length" value="20" />
+                                      <option name="offset" value="258" />
                                       <option name="possibleAnswer" value="for prime in primes:" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1679,7 +1679,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="For loop using string" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98708" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1702,17 +1702,17 @@
                                           <option name="offset" value="158" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="59" />
+                                      <option name="length" value="22" />
                                       <option name="offset" value="158" />
                                       <option name="possibleAnswer" value="for ch in hello_world:" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1727,7 +1727,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="While loop" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98709" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1750,17 +1750,17 @@
                                           <option name="offset" value="213" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="30" />
-                                      <option name="offset" value="213" />
+                                      <option name="length" value="18" />
+                                      <option name="offset" value="214" />
                                       <option name="possibleAnswer" value="while square &lt; 81:" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1775,7 +1775,7 @@
                     <Task>
                       <option name="index" value="4" />
                       <option name="name" value="Break keyword" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98710" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1798,17 +1798,17 @@
                                           <option name="offset" value="377" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="33" />
+                                      <option name="length" value="20" />
                                       <option name="offset" value="377" />
                                       <option name="possibleAnswer" value="animal == 'elephant'" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1823,7 +1823,7 @@
                     <Task>
                       <option name="index" value="5" />
                       <option name="name" value="Continue keyword" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98711" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1846,17 +1846,17 @@
                                           <option name="offset" value="154" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="18" />
-                                      <option name="offset" value="154" />
+                                      <option name="length" value="10" />
+                                      <option name="offset" value="166" />
                                       <option name="possibleAnswer" value="x % 2 == 0" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1881,7 +1881,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Definition" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98712" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1904,17 +1904,17 @@
                                           <option name="offset" value="256" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="58" />
+                                      <option name="length" value="47" />
                                       <option name="offset" value="256" />
                                       <option name="possibleAnswer" value="def fun():" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1929,7 +1929,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="Parameters and call arguments" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98713" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -1952,17 +1952,17 @@
                                           <option name="offset" value="159" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="71" />
+                                      <option name="length" value="14" />
                                       <option name="offset" value="159" />
                                       <option name="possibleAnswer" value="def square(x):" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -1977,7 +1977,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="Return value" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98714" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2000,11 +2000,11 @@
                                           <option name="offset" value="373" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="21" />
+                                      <option name="length" value="1" />
                                       <option name="offset" value="373" />
                                       <option name="possibleAnswer" value="1" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2020,11 +2020,11 @@
                                           <option name="offset" value="465" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="17" />
-                                      <option name="offset" value="465" />
+                                      <option name="length" value="29" />
+                                      <option name="offset" value="425" />
                                       <option name="possibleAnswer" value="b = a + b" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2040,17 +2040,17 @@
                                           <option name="offset" value="491" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="17" />
-                                      <option name="offset" value="491" />
+                                      <option name="length" value="11" />
+                                      <option name="offset" value="463" />
                                       <option name="possibleAnswer" value="a = tmp_var" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2065,7 +2065,7 @@
                     <Task>
                       <option name="index" value="4" />
                       <option name="name" value="Default parameters" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98715" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2088,17 +2088,17 @@
                                           <option name="offset" value="158" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="55" />
+                                      <option name="length" value="22" />
                                       <option name="offset" value="158" />
                                       <option name="possibleAnswer" value="subject, name='John'" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2123,7 +2123,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Definition" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98725" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2146,17 +2146,17 @@
                                           <option name="offset" value="30" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="28" />
+                                      <option name="length" value="1" />
                                       <option name="offset" value="30" />
                                       <option name="possibleAnswer" value="4" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2171,7 +2171,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="Variable access" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98726" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2194,17 +2194,17 @@
                                           <option name="offset" value="408" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="33" />
+                                      <option name="length" value="19" />
                                       <option name="offset" value="408" />
                                       <option name="possibleAnswer" value="my_object.variable1" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2219,7 +2219,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="Variable access" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98727" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2242,11 +2242,11 @@
                                           <option name="offset" value="220" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="20" />
+                                      <option name="length" value="5" />
                                       <option name="offset" value="220" />
                                       <option name="possibleAnswer" value="Car()" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2262,17 +2262,17 @@
                                           <option name="offset" value="262" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="14" />
-                                      <option name="offset" value="262" />
+                                      <option name="length" value="18" />
+                                      <option name="offset" value="247" />
                                       <option name="possibleAnswer" value="car2.color = &quot;red&quot;" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2287,7 +2287,7 @@
                     <Task>
                       <option name="index" value="4" />
                       <option name="name" value="Self explanation" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98728" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2310,17 +2310,17 @@
                                           <option name="offset" value="184" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="21" />
+                                      <option name="length" value="22" />
                                       <option name="offset" value="184" />
                                       <option name="possibleAnswer" value="self.current += amount" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2335,7 +2335,7 @@
                     <Task>
                       <option name="index" value="5" />
                       <option name="name" value="Special __init__ method" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98729" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2358,17 +2358,17 @@
                                           <option name="offset" value="159" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="19" />
+                                      <option name="length" value="11" />
                                       <option name="offset" value="159" />
                                       <option name="possibleAnswer" value="self, color" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2393,7 +2393,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Import module" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98730" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2431,11 +2431,11 @@
                                           <option name="offset" value="164" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="21" />
+                                      <option name="length" value="16" />
                                       <option name="offset" value="164" />
                                       <option name="possibleAnswer" value="import my_module" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2451,17 +2451,17 @@
                                           <option name="offset" value="187" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="40" />
-                                      <option name="offset" value="187" />
+                                      <option name="length" value="29" />
+                                      <option name="offset" value="182" />
                                       <option name="possibleAnswer" value="my_module.hello_world('John')" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2491,7 +2491,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="Builtin modules" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98731" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2514,17 +2514,17 @@
                                           <option name="offset" value="23" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="12" />
+                                      <option name="length" value="25" />
                                       <option name="offset" value="23" />
                                       <option name="possibleAnswer" value="datetime.datetime.today()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2539,7 +2539,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="From import" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98732" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2580,14 +2580,14 @@
                                       <option name="length" value="33" />
                                       <option name="offset" value="169" />
                                       <option name="possibleAnswer" value="from my_module import hello_world" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="2" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2627,7 +2627,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Read file" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98733" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2639,7 +2639,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2680,11 +2680,11 @@
                                           <option name="offset" value="266" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="15" />
+                                      <option name="length" value="11" />
                                       <option name="offset" value="266" />
                                       <option name="possibleAnswer" value="print(line)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2700,11 +2700,11 @@
                                           <option name="offset" value="410" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="27" />
-                                      <option name="offset" value="410" />
+                                      <option name="length" value="20" />
+                                      <option name="offset" value="406" />
                                       <option name="possibleAnswer" value="print(f1.readline())" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2720,17 +2720,17 @@
                                           <option name="offset" value="439" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="27" />
-                                      <option name="offset" value="439" />
+                                      <option name="length" value="10" />
+                                      <option name="offset" value="428" />
                                       <option name="possibleAnswer" value="f1.close()" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="2" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2745,7 +2745,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="Write to file" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="98734" />
                       <option name="text" />
                       <option name="updateDate" />
@@ -2757,7 +2757,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2783,11 +2783,11 @@
                                           <option name="offset" value="92" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="12" />
+                                      <option name="length" value="3" />
                                       <option name="offset" value="92" />
                                       <option name="possibleAnswer" value="'a'" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2803,11 +2803,11 @@
                                           <option name="offset" value="133" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="35" />
-                                      <option name="offset" value="133" />
+                                      <option name="length" value="10" />
+                                      <option name="offset" value="124" />
                                       <option name="possibleAnswer" value="f.write(i)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2823,17 +2823,17 @@
                                           <option name="offset" value="174" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="14" />
-                                      <option name="offset" value="174" />
+                                      <option name="length" value="9" />
+                                      <option name="offset" value="140" />
                                       <option name="possibleAnswer" value="f.close()" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
