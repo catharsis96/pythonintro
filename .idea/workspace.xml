@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd6c7e43-c86f-4367-8daf-d35c7a3f7ac6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sandbox/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson10/task1/input.txt" afterPath="$PROJECT_DIR$/lesson10/task1/input.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson10/task1/read_file.py" afterPath="$PROJECT_DIR$/lesson10/task1/read_file.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson10/task2/output.txt" afterPath="$PROJECT_DIR$/lesson10/task2/output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson10/task2/write_to_file.py" afterPath="$PROJECT_DIR$/lesson10/task2/write_to_file.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/task5/arithmetic_operators.py" afterPath="$PROJECT_DIR$/lesson2/task5/arithmetic_operators.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/task6/assignments.py" afterPath="$PROJECT_DIR$/lesson2/task6/assignments.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/task7/boolean_operators.py" afterPath="$PROJECT_DIR$/lesson2/task7/boolean_operators.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/task8/comparison_operators.py" afterPath="$PROJECT_DIR$/lesson2/task8/comparison_operators.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/task10/string_formatting.py" afterPath="$PROJECT_DIR$/lesson3/task10/string_formatting.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/task9/string_methods.py" afterPath="$PROJECT_DIR$/lesson3/task9/string_methods.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task1/lists.py" afterPath="$PROJECT_DIR$/lesson4/task1/lists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task2/list_operations.py" afterPath="$PROJECT_DIR$/lesson4/task2/list_operations.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task3/list_items.py" afterPath="$PROJECT_DIR$/lesson4/task3/list_items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task4/tuples.py" afterPath="$PROJECT_DIR$/lesson4/task4/tuples.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task5/dicts.py" afterPath="$PROJECT_DIR$/lesson4/task5/dicts.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task6/dict_key_value.py" afterPath="$PROJECT_DIR$/lesson4/task6/dict_key_value.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task7/in_keyword.py" afterPath="$PROJECT_DIR$/lesson4/task7/in_keyword.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6/task1/for_loop.py" afterPath="$PROJECT_DIR$/lesson6/task1/for_loop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6/task2/for_string.py" afterPath="$PROJECT_DIR$/lesson6/task2/for_string.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6/task3/while_loop.py" afterPath="$PROJECT_DIR$/lesson6/task3/while_loop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6/task4/break_keyword.py" afterPath="$PROJECT_DIR$/lesson6/task4/break_keyword.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6/task5/continue_keyword.py" afterPath="$PROJECT_DIR$/lesson6/task5/continue_keyword.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7/task1/functions.py" afterPath="$PROJECT_DIR$/lesson7/task1/functions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7/task2/param_args.py" afterPath="$PROJECT_DIR$/lesson7/task2/param_args.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7/task3/return_keyword.py" afterPath="$PROJECT_DIR$/lesson7/task3/return_keyword.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7/task4/default_parameter.py" afterPath="$PROJECT_DIR$/lesson7/task4/default_parameter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/task1/class_definition.py" afterPath="$PROJECT_DIR$/lesson8/task1/class_definition.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/task2/access_variable.py" afterPath="$PROJECT_DIR$/lesson8/task2/access_variable.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/task3/access_variable.py" afterPath="$PROJECT_DIR$/lesson8/task3/access_variable.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/task4/self_parameter.py" afterPath="$PROJECT_DIR$/lesson8/task4/self_parameter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/task5/init_method.py" afterPath="$PROJECT_DIR$/lesson8/task5/init_method.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson9/task1/imports.py" afterPath="$PROJECT_DIR$/lesson9/task1/imports.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson9/task2/builtin_modules.py" afterPath="$PROJECT_DIR$/lesson9/task2/builtin_modules.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson9/task3/from_import.py" afterPath="$PROJECT_DIR$/lesson9/task3/from_import.py" />
     </list>
     <ignored path="PythonIntroduction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -502,7 +464,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="condition expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="condition expressions" />
+    <MESSAGE value="passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="passed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
